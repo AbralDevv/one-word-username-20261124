@@ -1,0 +1,1 @@
+{"description":"One Word, One Username, One Reward — entry writes the account's own make.fun username (injourney) to /output/entry.txt","license":"MIT","main":"main.ts","name":"one-word-username-20261124","private":true,"scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
